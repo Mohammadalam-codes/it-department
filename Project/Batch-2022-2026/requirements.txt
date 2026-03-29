@@ -1,0 +1,8 @@
+joblib
+numpy
+flask
+pandas
+pefile
+werkzeug
+matplotlib
+scikit-learn
